@@ -1,14 +1,14 @@
 ## Hi there 👋
 
 
-Currently Double Degree Master student at [Ensae Paris] and [M2DS] (IP Paris). Interested in Machine Learning, Deep Learning, Biostatistics.
+Currently Double Degree Master student at Ensae Paris and M2DS (IP Paris). Interested in Machine Learning, Deep Learning, Biostatistics.
 
 I open source some of my projects here.
 
 ---
 
 ## Awards and Competitions
-- 🥈 2nd place at the 2022 [ENSAE]'s Hackathon by [Statup x Ekimetrics](https://www.capgemini.com).
+- 🥈 2nd place at the 2022 ENSAE's Hackathon by [Statup x Ekimetrics].
 
 ---
 
