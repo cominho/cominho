@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+
+Currently Double Degree Master student at [Ensae Paris] and [M2DS] (IP Paris). Interested in Machine Learning, Deep Learning, Biostatistics.
+
+I open source some of my projects here.
+
+---
+
+## Awards and Competitions
+- 🥈 2nd place at the 2022 [ENSAE]'s Hackathon by [Statup x Ekimetrics](https://www.capgemini.com).
+
+---
+
+
+
 <!--
 **cominho/cominho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
