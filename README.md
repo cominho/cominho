@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Currently Double Degree Master student at Ensae Paris and M2DS (IP Paris). Interested in Machine Learning, Deep Learning, Biostatistics.
+Currently Double Degree Master student at Ensae Paris and M2DS (IP Paris). Interested in Machine Learning, Deep Learning, and their various applications (biology, finance, economics).
 
 I open source some of my projects here.
 
